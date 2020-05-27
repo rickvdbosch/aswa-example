@@ -1,7 +1,7 @@
 :host {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 14px;
-    color: #333;
+    font-size: 24px;
+    color: rgb(75, 1, 136);
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -29,7 +29,7 @@
     margin: -8px;
     display: flex;
     align-items: center;
-    background-color: #1976d2;
+    background-color: #ff00dd;
     color: white;
     font-weight: 600;
   }
@@ -57,7 +57,7 @@
   }
 
   svg.material-icons {
-    height: 24px;
+    height: 240px;
     width: auto;
   }
 
@@ -66,7 +66,7 @@
   }
 
   .card svg.material-icons path {
-    fill: #888;
+    fill: rgb(255, 238, 0);
   }
 
   .card-container {
